@@ -1,9 +1,9 @@
 ## Hi! I'm Maria Eduarda Cavalheri dos Santos 👩🏽‍💻
 **`Full Stack Developer`**
 
-I am a 25-year-old Computer Science undergraduate student from Brazil. 
+I am a Fullstack Developer based in Brazil, passionate about building robust web applications and solving complex problems. 
 
-I am currently transitioning into a **Fullstack Developer** role, with a strong focus on building efficient, problem-solving web applications. My long-term goal is to integrate into the Canadian tech ecosystem, which is why I am actively enhancing my English skills (English C1).
+My long-term goal is to integrate into the Canadian tech ecosystem, which is why I am actively enhancing my English skills (English C1).
 
 ### 🛠️ Tech Stack
 <p align="left">
@@ -25,11 +25,5 @@ I am currently transitioning into a **Fullstack Developer** role, with a strong 
 </div>
 
 ### 📫 Let's Connect!
-<p align="left">
-  <a href="https://www.linkedin.com/in/maria-eduarda-cavalheri-dos-santos/?locale=en-US" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="https://www.instagram.com/mariaeduarda_cavalheri/" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
-  </a>
+<p align="left"><a href="https://www.linkedin.com/in/maria-eduarda-cavalheri-dos-santos/?locale=en-US" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>&nbsp;&nbsp;<a href="https://www.instagram.com/mariaeduarda_cavalheri/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
 </p>
